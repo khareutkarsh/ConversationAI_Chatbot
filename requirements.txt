@@ -1,0 +1,11 @@
+streamlit==1.42.1
+rank-bm25==0.2.2
+langchain-community==0.3.17
+python-docx==1.1.2
+pyngrok
+transformers
+sentence-transformers
+chromadb==0.6.3
+langchain_huggingface
+langchain_chroma
+torch==2.0.1
